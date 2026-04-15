@@ -1,0 +1,31 @@
+# Vivado generated files
+
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.gen/
+*.ip_user_files/
+
+# Logs
+
+*.log
+*.jou
+
+# Temp/system files
+
+.Xil/
+*.str
+
+# Output files
+
+*.bit
+*.bin
+*.ltx
+
+# Misc
+
+dfx_runtime.txt
+.DS_Store
+Thumbs.db
+
